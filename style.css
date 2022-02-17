@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@700&display=swap');
+
+body{
+    background-color: black;
+    font-family: martel Sans;
+}
+
+h1{
+    color:hsl(358, 84%, 50%);
+    font-size: 60px;
+    font-family: martel Sans;
+}
+
+.cor1{
+    background-color: #e9141b;
+}
+
+.carousel-inner> .item> img {
+    width: 640px;
+    height: 360px;
+  }
