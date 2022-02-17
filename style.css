@@ -11,8 +11,8 @@ h1{
     font-family: martel Sans;
 }
 
-.cor1{
-    background-color: #e9141b;
+cor1{
+    background-color: Hsl(358, 84%, 50%);
 }
 
 .carousel-inner> .item> img {
