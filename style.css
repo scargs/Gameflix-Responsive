@@ -11,11 +11,6 @@ h1{
     font-family: martel Sans;
 }
 
-cor1{
+nav{
     background-color: Hsl(358, 84%, 50%);
 }
-
-.carousel-inner> .item> img {
-    width: 640px;
-    height: 360px;
-  }
